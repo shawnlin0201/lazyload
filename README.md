@@ -3,7 +3,7 @@
 
 ## Usage
 
-引入 script 檔後，將 `img` 套上 'lazy' class 名稱，並且在 `data-src` 放入圖片路徑即可。
+引入 script 檔後，將 `img` 套上 `lazy` class 名稱，並且在 `data-src` 放入圖片路徑即可。
 
 ```html
 <script src="https://raw.githubusercontent.com/shawnlin0201/lazyload/master/lazyload.js"></script>
