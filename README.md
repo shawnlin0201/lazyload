@@ -17,8 +17,11 @@
 ```
 
 ## Changelog
+
 Version change detail are documented in the [release page.](https://github.com/shawnlin0201/lazyload.js/releases)
 
 ## License
+
 [MIT](https://github.com/shawnlin0201/lazyload.js/blob/master/LICENSE)
+
 Copyright (c) 2020-present, Shawn Lin
